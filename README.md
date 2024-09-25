@@ -17,7 +17,7 @@ Definition: Call by Value means passing a copy of the actual parameters to the f
 
 Working: The function operates on copies of the values, leaving the original variables unchanged.<br>
 
-## Algorithm (1):
+## Algorithm for call by value:
 
 1. **Define Swap Function**:
    - Create a function `swap` that takes two integer parameters `x` and `y`.
@@ -32,7 +32,7 @@ Working: The function operates on copies of the values, leaving the original var
 3. **End Program**:
    - Conclude the program after printing the values of `a` and `b`.
 
-## Algorithm (2):
+## Algorithm for call by refrense :
 
 1. **Define Swap Function**:
    - Create a function `swap` that takes two integer pointers `x` and `y` as parameters.
